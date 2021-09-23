@@ -1,0 +1,1 @@
+SmallestMultiple: https://open.kattis.com/problems/smallestmultiple

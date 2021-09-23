@@ -1,0 +1,5 @@
+Firefly: https://open.kattis.com/problems/firefly
+GuessTheNumber: https://open.kattis.com/problems/guess
+JewelryBox: https://open.kattis.com/problems/jewelrybox
+OutOfSorts: https://open.kattis.com/problems/outofsorts
+RoomPainting: https://open.kattis.com/problems/roompainting

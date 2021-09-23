@@ -1,0 +1,5 @@
+BrdigesAndTunnels: https://open.kattis.com/problems/bridgesandtunnels
+Freckles: https://open.kattis.com/problems/freckles
+GettingThrough: https://open.kattis.com/problems/gettingthrough
+TenKindsOfPeople: https://open.kattis.com/problems/10kindsofpeople
+UnDetected: https://open.kattis.com/problems/undetected
