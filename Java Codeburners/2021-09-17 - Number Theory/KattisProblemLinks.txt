@@ -1,1 +1,24 @@
+CandyDistribution: https://open.kattis.com/problems/candydistribution
+	Unsolved
+EulersNumber: https://open.kattis.com/problems/eulersnumber
+	Unsolved
+FundamentalNeighbors: https://open.kattis.com/problems/fundamentalneighbors
+	Unsolved
+InverseFactorial: https://open.kattis.com/problems/inversefactorial
+	Unsolved
+ModularAruthmetic: https://open.kattis.com/problems/modulararithmetic
+	Unsolved
+NameThatPermutation: https://open.kattis.com/problems/namethatpermutation
+	Unsolved
+Ones: https://open.kattis.com/problems/ones
+	Unsolved
+Persistent Numbers: https://open.kattis.com/problems/persistent
+	Unsolved
 SmallestMultiple: https://open.kattis.com/problems/smallestmultiple
+	Solved
+ConsecutiveSums: https://open.kattis.com/problems/consecutivesums
+	Unsolved
+SoYouLikeYourFoodHot: https://open.kattis.com/problems/soyoulikeyourfoodhot
+	Unsolved
+Vauvau: https://open.kattis.com/problems/vauvau
+	Unsolved

@@ -1,5 +1,14 @@
+AquariumTank: https://open.kattis.com/problems/tank
+	Unsolved
 Firefly: https://open.kattis.com/problems/firefly
+	Solved
 GuessTheNumber: https://open.kattis.com/problems/guess
+	Solved
 JewelryBox: https://open.kattis.com/problems/jewelrybox
+	Solved
 OutOfSorts: https://open.kattis.com/problems/outofsorts
+	Solved
+QueensPatio: https://open.kattis.com/contests/tvw4kv/problems/queenspatio
+	Unsolved
 RoomPainting: https://open.kattis.com/problems/roompainting
+	Solved

@@ -1,5 +1,10 @@
 BrdigesAndTunnels: https://open.kattis.com/problems/bridgesandtunnels
+	Solved
 Freckles: https://open.kattis.com/problems/freckles
+	Solved
 GettingThrough: https://open.kattis.com/problems/gettingthrough
+	Solved
 TenKindsOfPeople: https://open.kattis.com/problems/10kindsofpeople
+	Solved
 UnDetected: https://open.kattis.com/problems/undetected
+	Solved
