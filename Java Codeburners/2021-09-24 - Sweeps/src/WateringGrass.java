@@ -101,7 +101,7 @@ public class WateringGrass {
 
 			// Until we have covered the entire length of the field...
 			while(rightMostCoverage < fieldLength) {
-				// Create a variable that describes the current iteration's best leftBound
+				// Create a variable that describes the current iteration's best rightBound
 				double newRightMostCoverage = maxAcceptableLeftBound;
 				// Indicates which ith sprinkler is the best to add
 				int farthest = -1;
