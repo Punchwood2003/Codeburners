@@ -3,7 +3,6 @@ import java.util.*;
 
 public class Firefly {
     public static void main(String[] args) throws Exception {
-        double time = System.currentTimeMillis();
         BufferedReader in = new BufferedReader(new InputStreamReader(System.in));
         PrintWriter out = new PrintWriter(new BufferedWriter(new OutputStreamWriter(System.out)));
         StringTokenizer st = new StringTokenizer(in.readLine());

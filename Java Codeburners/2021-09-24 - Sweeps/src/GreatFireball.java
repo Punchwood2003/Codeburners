@@ -13,5 +13,6 @@ public class GreatFireball {
 		PrintWriter out = new PrintWriter(System.out);
 		StringTokenizer st;
 
+		// TODO
 	}
 }

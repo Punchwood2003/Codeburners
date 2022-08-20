@@ -1,11 +1,11 @@
 #include <vector>
 #include <iostream>
 #include <cmath>
-#include <limits>
 #include <iomanip>
 #include <string>
+#include <float.h>
 
-#define EPSILON 0.0000001
+#define EPSILON 0.000001
 
 using namespace std;
 
@@ -21,6 +21,7 @@ class UnionFind {
             return x;
         }
         int px = Find(p.at(x));
+        p.at(x) = px;
         return px;
     }
     bool Union(int x, int y) {
@@ -75,7 +76,7 @@ class Shape {
             if(Equals(other.x, dr)) {
                 return x - r <= other.dr;
             }
-            return x + r >= other.x - other.dr;
+            return x + r >= other.w - other.dr;
         }
         else if(other.isCircle) {
             if(Equals(x, dr)) {
@@ -116,9 +117,9 @@ double BinarySearch(Shape original[], double w, int length) {
     Shape leftBoundary = Shape(0, w, mid);
     Shape rightBounday = Shape(w, w, mid);
     
-    double bestDeltaR = numeric_limits<double>::min();
+    double bestDeltaR = DBL_MIN;
 
-    for(int i = 0; i < 50; i++) {
+    for(int i = 0; i < 31; i++) {
         mid = (high + low) / 2.0;
         
         Shape testShape[length];
