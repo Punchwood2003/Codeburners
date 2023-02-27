@@ -1,5 +1,5 @@
 /*
-BEGIN ANNOTATION
+ur	BEGIN ANNOTATION
 PROBLEM URL: https://open.kattis.com/problems/digicomp2
 TAGS: topological-sort
 EXPLANATION: 
