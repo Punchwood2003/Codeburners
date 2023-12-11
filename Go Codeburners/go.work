@@ -1,0 +1,36 @@
+go 1.20
+
+use (
+	// 09-15-2023 Binary Search
+	"./09-15-2023 Binary Search/A"
+	"./09-15-2023 Binary Search/B"
+	"./09-15-2023 Binary Search/C"
+	"./09-15-2023 Binary Search/D"
+
+	// 09-29-2023 Greedy
+	"./09-29-2023 Greedy/A"
+	"./09-29-2023 Greedy/B"
+	"./09-29-2023 Greedy/C"
+	"./09-29-2023 Greedy/D"
+	"./09-29-2023 Greedy/E"
+
+	// 10-06-2023 Divide and Conquer
+	"./10-06-2023 Divide and Conquer/A"
+	"./10-06-2023 Divide and Conquer/B"
+
+	// 10-13-2023 Divide and Conquer
+	"./10-13-2023 Divide and Conquer/A"
+
+	// Meta Hacker Cup Practice - 2023
+	"./Meta Hacker Cup Practice - 2023/Cheese Burger Corollary 1"
+	"./Meta Hacker Cup Practice - 2023/Cheese Burger Corollary 2"
+	"./Meta Hacker Cup Practice - 2023/Dim Sum Delivery"
+	// "./Meta Hacker Cup Practice - 2023/Road to Nutella"
+	"./Meta Hacker Cup Practice - 2023/Two Apples a Day"
+
+	// Meta Hacker Cup Round 1
+	"./Meta Hacker Cup Round 1/A"
+// "./Meta Hacker Cup Round 1/B"
+// "./Meta Hacker Cup Round 1/C"
+// "./Meta Hacker Cup Round 1/D"
+)

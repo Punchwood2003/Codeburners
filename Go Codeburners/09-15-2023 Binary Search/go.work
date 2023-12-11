@@ -1,0 +1,8 @@
+go 1.20
+
+use (
+	./09-15-2023 Binary Search/A
+	./09-15-2023 Binary Search/B
+	./09-15-2023 Binary Search/C
+	./09-15-2023 Binary Search/D
+)
